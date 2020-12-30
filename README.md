@@ -32,7 +32,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I used the default android device to test the app. I did not use Pixel 2 to avoid using up too much storage. 
+This made it difficult to follow certain procedures and the layout may look different. When I press an item to 
+delete, the app shuts down. I am not sure what this is due to. I spent 3 hrs trying to solve but just decided to submit.
+
 
 ## License
 
